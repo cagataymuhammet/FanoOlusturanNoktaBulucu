@@ -1,0 +1,30 @@
+c:\users\pozitif\documents\visual studio 2012\Projects\AyseBayar\AyseBayar\bin\Debug\AyseBayar.exe
+c:\users\pozitif\documents\visual studio 2012\Projects\AyseBayar\AyseBayar\bin\Debug\AyseBayar.pdb
+c:\users\pozitif\documents\visual studio 2012\Projects\AyseBayar\AyseBayar\obj\Debug\AyseBayar.exe
+c:\users\pozitif\documents\visual studio 2012\Projects\AyseBayar\AyseBayar\obj\Debug\AyseBayar.pdb
+c:\users\pozitif\documents\visual studio 2012\Projects\AyseBayar\AyseBayar\obj\Debug\AyseBayar.csprojResolveAssemblyReference.cache
+C:\Users\POZITIF\Desktop\AyseBayar_en_Son_calisan\AyseBayar\obj\Debug\AyseBayar.exe
+C:\Users\POZITIF\Desktop\AyseBayar_en_Son_calisan\AyseBayar\obj\Debug\AyseBayar.pdb
+C:\Users\POZITIF\Desktop\AyseBayar_en_Son_calisan\AyseBayar\bin\Debug\AyseBayar.exe
+C:\Users\POZITIF\Desktop\AyseBayar_en_Son_calisan\AyseBayar\bin\Debug\AyseBayar.pdb
+C:\Users\POZITIF\Desktop\AyseBayar_en_Son_calisan\AyseBayar\obj\Debug\AyseBayar.csprojResolveAssemblyReference.cache
+C:\Users\PDAJANS\Desktop\AyseBayar_23_11_2015\AyseBayar_23_11_2015\AyseBayar\obj\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_23_11_2015\AyseBayar_23_11_2015\AyseBayar\obj\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_23_11_2015\AyseBayar_23_11_2015\AyseBayar\bin\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_23_11_2015\AyseBayar_23_11_2015\AyseBayar\bin\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_23_11_2015\AyseBayar_23_11_2015\AyseBayar\obj\Debug\AyseBayar.csprojResolveAssemblyReference.cache
+C:\Users\PDAJANS\Desktop\AyseBayar_06_12_2015\AyseBayar\obj\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_06_12_2015\AyseBayar\obj\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_06_12_2015\AyseBayar\bin\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_06_12_2015\AyseBayar\bin\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_06_12_2015\AyseBayar\obj\Debug\AyseBayar.csprojResolveAssemblyReference.cache
+C:\Users\PDAJANS\Desktop\AyseBayar_08_12_2015\AyseBayar\obj\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_08_12_2015\AyseBayar\obj\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_08_12_2015\AyseBayar\bin\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_08_12_2015\AyseBayar\bin\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_08_12_2015\AyseBayar\obj\Debug\AyseBayar.csprojResolveAssemblyReference.cache
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\obj\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\obj\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\bin\Debug\AyseBayar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\bin\Debug\AyseBayar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\obj\Debug\AyseBayar.csprojResolveAssemblyReference.cache

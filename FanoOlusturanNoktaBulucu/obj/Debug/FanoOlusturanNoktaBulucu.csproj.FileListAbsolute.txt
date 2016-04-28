@@ -1,0 +1,16 @@
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\bin\Debug\FanoOlusturanNoktalar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\bin\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\obj\Debug\FanoOlusturanNoktalar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\AyseBayar\obj\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktalar.exe
+C:\Users\PDAJANS\Desktop\AyseBayar_21_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\PDAJANS\Desktop\FanoOlusturanNoktaBulucu_22_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktalar.exe
+C:\Users\PDAJANS\Desktop\FanoOlusturanNoktaBulucu_22_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\PDAJANS\Desktop\FanoOlusturanNoktaBulucu_22_12_2015\FanoOlusturanNoktaBulucu\bin\Debug\FanoOlusturanNoktalar.exe
+C:\Users\PDAJANS\Desktop\FanoOlusturanNoktaBulucu_22_12_2015\FanoOlusturanNoktaBulucu\bin\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\PDAJANS\Desktop\FanoOlusturanNoktaBulucu_22_12_2015\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktaBulucu.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoOlusturanNoktaBulucu\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktalar.exe
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoOlusturanNoktaBulucu\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoOlusturanNoktaBulucu\FanoOlusturanNoktaBulucu\bin\Debug\FanoOlusturanNoktalar.exe
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoOlusturanNoktaBulucu\FanoOlusturanNoktaBulucu\bin\Debug\FanoOlusturanNoktalar.pdb
+C:\Users\User\Desktop\FANO YAZILIMLARI\FanoOlusturanNoktaBulucu\FanoOlusturanNoktaBulucu\obj\Debug\FanoOlusturanNoktaBulucu.csprojResolveAssemblyReference.cache
